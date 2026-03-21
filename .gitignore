@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# MySQL dump / 临时文件
+*.sql
+
+# 系统文件
+.DS_Store
